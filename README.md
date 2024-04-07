@@ -6,3 +6,6 @@ All code is writen in Python 3.10.12. Vesions of packages are in requirements.tx
 Prompt engineering links:
 1. https://www.promptingguide.ai
 2. https://platform.openai.com/docs/guides/prompt-engineering
+
+Parsing pdfs:
+1. https://pypi.org/project/science-parse-api/
